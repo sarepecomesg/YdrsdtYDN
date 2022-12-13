@@ -8,16 +8,6 @@
 - **[Level](../README.md#level_slider-levels):** 2
 
 
-## Project Overview
-
-
-Please provide the following:
-
-Puzzletask - Blockchain Client Certification
-- Client NFT Certification
-- A brief description of your project.
-- Puzzletask is a no-code platform for Food Safety and Traceability Management serving Hospitality and Food Retail Sectors towards supply chain optimization. We cater to suppliers, hotels, retailers, and end consumers to encourage interaction in a data exchange micro-economy that incentivizes the sharing of valuable data to optimize the supply chain. Our solution has two revenue streams, one based on a SaaS Module and the other based on a Data Monetizing module.
-In orther to slowly bring Blockchain technology for such a traditional sector as Food retail and Hospitality, we are launching our NFT Certificate to highlight the customers that are getting into the digital transformation path. This certification approach, from customer certification to license management, can be used in many ways in our business model. The solution will be based on the implementation of an ERP connected NFT Minter that will be available for the community in a form of a library.
 
 - An indication of how your project relates to / integrates into the Mintbase / NEAR ecosystem.
   - We are bringing a real life use case for NFTs as a way to certify our customers and provide them with a simple first contact with blockchain and NEAR wallet.
@@ -88,15 +78,6 @@ The development team accumulates experience in Backend and Frontend Development,
 It has been leading software development and maintenance in portuguese top companies and projects always using the best practices in the industry. We may highlight SAPO Adwords that served millions of ads requests per day, MEO Cloud - Altice Labs that served petabyte scale data to near half a million users, the foundation and launch of Advertio's technical team, processes, software and infrastructure and BPstat - Banco de Portugal's statistical portal that manages millions of time series that are explorable by the public via an extensive set of tools and related content.
 
 On the project/ product management and tokenomics, the team presents a senior level regarding the capability to create a product from 0 to scale with 10 years of experience in tech projects as well as arround 8 years in tokenomics desing, treasury manament strategies and security audits.
-
-
-### Team Code Repos
-
-
-Please also provide the GitHub accounts of all team members. If they contain no activity, references to projects hosted elsewhere or live are also fine.
-
-- https://github.com/car3ca
-- https://github.com/vice2al
 
 ### Team LinkedIn Profiles (if available)
 
